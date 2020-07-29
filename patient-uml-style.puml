@@ -13,6 +13,7 @@ skinparam sequence{
     GroupBorderThickness       1
 }
 
+skinparam NoteShadowing              true
 skinparam DatabaseBorderColor        #263479
 skinparam DatabaseBackgroundColor    #F3F6F6
 skinparam ParticipantPadding         5
