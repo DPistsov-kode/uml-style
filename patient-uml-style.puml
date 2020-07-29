@@ -1,0 +1,23 @@
+skinparam arrowThickness             1
+skinparam sequence{
+    LifeLineBorderColor        #263479
+    ParticipantBorderColor     #263479
+    boxBorderColor             #263479
+    
+    ArrowColor                 #263479
+
+    LifeLInebackgroundColor    #c8ccdd
+
+    ParticipantBackgroundColor #F3F6F6
+
+    GroupBorderThickness       1
+}
+
+skinparam DatabaseBorderColor        #263479
+skinparam DatabaseBackgroundColor    #F3F6F6
+skinparam ParticipantPadding         5
+skinparam ParticipantBorderThickness 1
+skinparam Shadowing                  false
+skinparam BoxPadding                 10
+skinparam roundcorner                6
+skinparam backgroundColor            white 
