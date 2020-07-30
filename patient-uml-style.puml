@@ -4,6 +4,8 @@ skinparam sequence{
     ParticipantBorderColor     #263479
     boxBorderColor             #263479
     
+    boxBackgroundColor   #A6E0DA
+    
     ArrowColor                 #263479
 
     LifeLInebackgroundColor    #c8ccdd
