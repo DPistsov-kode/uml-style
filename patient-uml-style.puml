@@ -4,7 +4,7 @@ skinparam sequence{
     ParticipantBorderColor     #263479
     boxBorderColor             #3EB3A5
     
-    boxBackgroundColor         #CFECE9
+    boxBackgroundColor         #ACC1C3
     
     ArrowColor                 #263479
 
@@ -13,7 +13,7 @@ skinparam sequence{
     ParticipantBackgroundColor #F3F6F6
 
     GroupBorderThickness       1
-    GroupBorderColor           #3EB3A5
+    GroupBorderColor           #8D94B9
 }
 
 ' skinparam NoteShadowing              true
