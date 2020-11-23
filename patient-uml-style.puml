@@ -16,6 +16,14 @@ skinparam sequence{
     GroupBorderColor           #8D94B9
 }
 
+skinparam Object{
+    BackgroundColor #F3F6F6
+    BorderColor     #263479
+    FontStyle       bold
+    FontSize        18
+    AttributeFontSize 14
+}
+
 ' skinparam NoteShadowing              true
 skinparam DatabaseBorderColor        #263479
 skinparam DatabaseBackgroundColor    #F3F6F6
