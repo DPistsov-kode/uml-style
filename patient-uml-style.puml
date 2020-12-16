@@ -3,7 +3,8 @@ skinparam sequence{
     LifeLineBorderColor        #8D94B9
     ParticipantBorderColor     #263479
     boxBorderColor             #DFF6F3
-    boxBorderThickness         5
+    
+    ' boxBorderThickness         5
     
     boxBackgroundColor         #CFECE9
     
