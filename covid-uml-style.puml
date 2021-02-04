@@ -1,0 +1,37 @@
+skinparam arrowThickness             1
+skinparam sequence{
+    LifeLineBorderColor        #8D94B9
+    ParticipantBorderColor     #263479
+    boxBorderColor             #DFF6F3
+    
+    ' boxBorderThickness         5
+    
+    boxBackgroundColor         #CFECE9
+    
+    ArrowColor                 #263479
+
+    LifeLInebackgroundColor    #c8ccdd
+
+    ParticipantBackgroundColor #F3F6F6
+
+    GroupBorderThickness       1
+    GroupBorderColor           #8D94B9
+}
+
+skinparam Object{
+    BackgroundColor #F3F6F6
+    BorderColor     #263479
+    FontStyle       bold
+    FontSize        18
+    AttributeFontSize 14
+}
+
+' skinparam NoteShadowing              true
+skinparam DatabaseBorderColor        #263479
+skinparam DatabaseBackgroundColor    #F3F6F6
+skinparam ParticipantPadding         5
+skinparam ParticipantBorderThickness 1
+skinparam Shadowing                  false
+skinparam BoxPadding                 10
+skinparam roundcorner                6
+skinparam backgroundColor            white 
