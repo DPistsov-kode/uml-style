@@ -4,22 +4,24 @@ skinparam sequence{
     ParticipantBorderColor     #4F4FF4
     boxBorderColor             #E0E0F5
     
-    boxBackgroundColor         #D8D8FD
+    boxBackgroundColor         #ECECFE
     
     ArrowColor                 #4F4FF4
 
-    LifeLInebackgroundColor    #8585FF
+    LifeLInebackgroundColor    #D8D8FD
 
     ParticipantBackgroundColor #ECECFE
 
     GroupBorderThickness       1
-    GroupBorderColor           #C1C1EB
+    GroupBorderColor           #B2B2E6
 
 }
 
-skinparam ActorBorderColor 4F4FF4
-skinparam ActorBackgroundColor ECECFE
-skinparam ActorBorderThickness 1
+skinparam Actor{
+    BorderColor 0A0A1F
+    BackgroundColor D8D8FD
+    BorderThickness 1
+}
 
 skinparam Note{
     FontColor 0A0A1F
