@@ -1,0 +1,41 @@
+skinparam arrowThickness             2
+skinparam sequence{
+    LifeLineBorderColor        #4F4FF4
+    ParticipantBorderColor     #4F4FF4
+    boxBorderColor             #E0E0F5
+    
+    boxBackgroundColor         #D8D8FD
+    
+    ArrowColor                 #4F4FF4
+
+    LifeLInebackgroundColor    #8585FF
+
+    ParticipantBackgroundColor #ECECFE
+
+    GroupBorderThickness       1
+    GroupBorderColor           #C1C1EB
+
+}
+
+skinparam ActorBorderColor 4F4FF4
+skinparam ActorBackgroundColor ECECFE
+skinparam ActorBorderThickness 1
+
+skinparam Note{
+    FontColor 0A0A1F
+    backgroundColor white
+    BorderColor 0A0A1F
+}
+
+
+skinparam Database{
+    BorderColor        #4F4FF4
+    BackgroundColor    #ECECFE
+    BorderThickness    1
+}
+skinparam ParticipantPadding         5
+skinparam ParticipantBorderThickness 1
+skinparam Shadowing                  false
+skinparam BoxPadding                 10
+skinparam roundcorner                6
+skinparam backgroundColor            white 
