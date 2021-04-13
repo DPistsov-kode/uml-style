@@ -31,8 +31,8 @@ skinparam Note{
 
 
 skinparam Database{
-    BorderColor        #4F4FF4
-    BackgroundColor    #ECECFE
+    BorderColor        #0A0A1F
+    BackgroundColor    #D8D8FD
     BorderThickness    1
 }
 skinparam ParticipantPadding         5
