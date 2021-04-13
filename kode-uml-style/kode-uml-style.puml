@@ -1,4 +1,4 @@
-skinparam arrowThickness             2
+skinparam arrowThickness             1
 skinparam sequence{
     LifeLineBorderColor        #4F4FF4
     ParticipantBorderColor     #4F4FF4
