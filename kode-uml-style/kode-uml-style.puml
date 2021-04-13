@@ -1,20 +1,23 @@
-skinparam arrowThickness             1
 skinparam sequence{
     LifeLineBorderColor        #4F4FF4
-    ParticipantBorderColor     #0A0A1F
-    boxBorderColor             #E0E0F5
+    LifeLInebackgroundColor    #D8D8FD
     
+    boxBorderColor             #E0E0F5
     boxBackgroundColor         #ECECFE
+    BoxPadding                 10
     
     ArrowColor                 #4F4FF4
-
-    LifeLInebackgroundColor    #D8D8FD
-
+    ArrowThickness             1
+    
+    ParticipantBorderColor     #0A0A1F
     ParticipantBackgroundColor #D8D8FD
+    ParticipantPadding         5
+    ParticipantBorderThickness 1
 
-    GroupBorderThickness       1
-    GroupBorderColor           #B2B2E6
-
+    GroupBorderThickness        1
+    GroupBorderColor            1E1E5C
+    GroupHeaderFontColor        0A0A1F
+    GroupBodyBackgroundColor    white
 }
 
 skinparam Actor{
@@ -29,15 +32,12 @@ skinparam Note{
     BorderColor 0A0A1F
 }
 
-
 skinparam Database{
     BorderColor        #0A0A1F
     BackgroundColor    #D8D8FD
     BorderThickness    1
 }
-skinparam ParticipantPadding         5
-skinparam ParticipantBorderThickness 1
+
 skinparam Shadowing                  false
-skinparam BoxPadding                 10
 skinparam roundcorner                6
 skinparam backgroundColor            white 
